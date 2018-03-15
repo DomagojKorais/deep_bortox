@@ -9,8 +9,8 @@ https://github.com/amsehili/auditok/blob/master/README.md
 con speech recognitiion dato un file audio ottieni il testo corrispondente usando vari speech recognition systems, quello offline non è molto accurato, meglio google (ci vorrebbe l'api key ma si può fare anche senza)
 https://github.com/Uberi/speech_recognition/
 
-### rete neurale
-copia della roba di Google proprietaria scritta in python.
+### rete neurale, provvisorio
+rete neurale che dato come input una coppia audio/testo restituisce un audio sintetico. mai aperto mai provato.
 https://github.com/keithito/tacotron
 
 ## cosa si fa
