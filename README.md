@@ -1,4 +1,7 @@
-# deep_bortox
+# deep_bortox: @lucabortolussi speech imitator
+
+Faceswap setup instructions (also for cosilt) available [here](./INSTALL.md).
+
 
 ## Risorse necessarie
 ### auditok
