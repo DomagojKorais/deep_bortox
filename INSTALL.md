@@ -17,7 +17,7 @@ $ git submodules update
 ```
 
 ## Cosilt setup
-
+enter a node before doing that passage. 
 A "meta-module" which loads all the modules needed by TensorFlow 1.6.0 is available, and can be loaded with:
 
 ```bash
