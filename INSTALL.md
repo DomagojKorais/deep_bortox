@@ -18,7 +18,13 @@ $ git submodules update
 
 ## Cosilt setup
 
-Enter a node before doing that passage. 
+First of all, **move on a computing node**! because the master nodes uses old packages.
+
+```bash
+$ qsub -I -l nodes=1:ppn=24 -l walltime=4:00:00 -q jrc
+```
+
+The `jrc` queue is available (as of 2018/03/17), and provides computing nodes with two K20s NVIDIA cards each.
 
 A "meta-module" which loads all the modules needed by TensorFlow 1.6.0 is available, and can be loaded with:
 
